@@ -1,4 +1,4 @@
-# ask_a_question
+# Ask a Question
 
 As name says.
 
